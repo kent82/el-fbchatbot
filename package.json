@@ -1,0 +1,11 @@
+{
+  "name": "el-fbchatbot",
+  "version": "1.0.0",
+  "description": "empleolisto fb chatbot",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC"
+}
